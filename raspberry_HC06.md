@@ -15,3 +15,5 @@ Ctrl+o (save) & Ctrl+x (exit)
 Terminal: [sudo reboot]
 
 
+![image](https://github.com/imandrec/ArduinoBluetoothApp/assets/54920275/56d9f7ff-bc0f-42ee-b6c9-d58e66413d0b)
+
